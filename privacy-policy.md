@@ -46,7 +46,7 @@ Without the data, we would not be able to provide you the service we are current
 
 The personal data received through Matomo are sent to:
 
-- us (the owners of website.example)
+- us (the owners of iamroot.at)
 
 ## Details of transfers to third country and safeguards
 
