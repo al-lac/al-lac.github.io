@@ -2,7 +2,7 @@
 
 ## Purpose of the processing
 
-This website is using Matomo 7, an Open Source, self-hosted software for collecting anonymous usage statistics for this website.
+This website is using Matomo, an Open Source, self-hosted software for collecting anonymous usage statistics for this website.
 
 The data is used to analyse the behaviour of the website visitors to identify potential pitfalls like not found pages, search engine indexing issues and to find out which contents are the most appreciated. Once the data (number of visitors reaching a not found pages, viewing only one page…) is processed, Matomo is generating reports for website owners to take action, for example changing the layout of the pages, publishing some fresh content… etc.
 
@@ -66,4 +66,6 @@ If you think that the way we process your personal data with Matomo analytics is
 
 ## License
 
-This privacy policy is based on the privacy policy of the Matomo project 10 and licensed under Creative Commons 1, so you can modify it and use it yourself.
+This privacy policy is based on the privacy policy of the Matomo project and licensed under Creative Commons, so you can modify it and use it yourself.
+
+<!-- based on https://forum.matomo.org/t/privacy-policy-template/28389 -->
