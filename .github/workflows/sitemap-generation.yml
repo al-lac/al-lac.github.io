@@ -1,9 +1,6 @@
 name: Generate sitemap 
 
 on:
-  push:
-    branches: [ main ]
-    paths: [ '**.html', '**.pdf' ]
   workflow_dispatch:
 
 jobs:
@@ -21,6 +18,8 @@ jobs:
       uses: cicirello/generate-sitemap@v1
       with:
         base-url-path: https://iamroot.at/
+        additional-extensions: md
+        exclude-paths: /_layouts /_includes /404.html
     
     - name: Output stats
       run: |
