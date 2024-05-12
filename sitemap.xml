@@ -1,27 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://iamroot.at/README.md</loc>
-<lastmod>2023-03-31T22:09:34+02:00</lastmod>
-</url>
-<url>
-<loc>https://iamroot.at/about.md</loc>
+<loc>https://iamroot.at/about.html</loc>
 <lastmod>2024-05-04T10:08:30+02:00</lastmod>
 </url>
 <url>
-<loc>https://iamroot.at/privacy-policy.md</loc>
-<lastmod>2024-05-04T10:08:30+02:00</lastmod>
-</url>
-<url>
-<loc>https://iamroot.at/blog/index.md</loc>
+<loc>https://iamroot.at/blog/index.html</loc>
 <lastmod>2024-05-07T23:29:19+02:00</lastmod>
 </url>
 <url>
-<loc>https://iamroot.at/blog/terraform-basics.md</loc>
+<loc>https://iamroot.at/blog/terraform-basics.html</loc>
 <lastmod>2023-03-31T22:09:34+02:00</lastmod>
 </url>
 <url>
-<loc>https://iamroot.at/blog/umami-website-analytics.md</loc>
+<loc>https://iamroot.at/blog/umami-website-analytics.html</loc>
 <lastmod>2024-05-07T23:19:51+02:00</lastmod>
 </url>
 </urlset>
