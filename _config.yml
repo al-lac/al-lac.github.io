@@ -3,7 +3,7 @@ title: iamroot.at
 description: Watch this space!
 remote_theme: pages-themes/cayman@v0.2.0
 show_downloads: false
-url: "https:/iamroot.at"
+url: "https://iamroot.at"
 plugins:
 - jekyll-remote-theme
 - jekyll-seo-tag
