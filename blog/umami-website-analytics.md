@@ -45,7 +45,7 @@ The default user is `admin` and the password `umami`. Login and make sure to **c
 
 ## Reverse Proxy
 
-To make Umami really usable you probably need to setup an reverse proxy before it so you can have a proper URL like **analytics.yourdomain.com**.
+To make Umami really usable you probably need to setup a reverse proxy in front of it, so you can have a proper URL like **analytics.yourdomain.com**.
 
 In this case we are using nginx as the reverse proxy.
 
